@@ -1,2 +1,2 @@
-const a= "5o cambio";
+const a= "otro cambio externo";
 console.log(a);
